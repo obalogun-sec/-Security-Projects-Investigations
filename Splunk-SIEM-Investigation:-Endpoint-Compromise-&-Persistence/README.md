@@ -14,4 +14,4 @@ A user reported suspicious mouse movement on their workstation. Using Splunk, I 
 
 ## Project Artifacts
 *   📄 **[Full Incident Response Report (PDF)](./SOC_Investigation_Report.pdf)** - *Contains the complete timeline, 5Ws, and containment recommendations.*
-*   💻 **[Raw SPL Queries](./spl_queries.txt)** - *The exact Splunk searches used to extract the telemetry.*
+*   💻 **[Raw SPL Queries](https://github.com/obalogun-sec/-Security-Projects-Investigations/blob/main/Splunk-SIEM-Investigation:-Endpoint-Compromise-&-Persistence/splunk%20query/README.md)** - *The exact Splunk searches used to extract the telemetry.*
