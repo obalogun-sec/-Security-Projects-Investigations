@@ -13,5 +13,5 @@ A user reported suspicious mouse movement on their workstation. Using Splunk, I 
 *   **Persistence:** Abuse of PowerShell and Task Scheduler to create a `SYSTEM` level startup task.
 
 ## Project Artifacts
-*   📄 **[Full Incident Response Report (PDF)](./SOC_Investigation_Report.pdf)** - *Contains the complete timeline, 5Ws, and containment recommendations.*
+*   📄 **[Full Incident Response Report (PDF)](https://github.com/obalogun-sec/-Security-Projects-Investigations/blob/main/Splunk-SIEM-Investigation%3A-Endpoint-Compromise-%26-Persistence/Capstone%20Challenge%20%E2%80%93%20Splunk%20101.pdf)** - *Contains the complete timeline, 5Ws, and containment recommendations.*
 *   💻 **[Raw SPL Queries](https://github.com/obalogun-sec/-Security-Projects-Investigations/blob/main/Splunk-SIEM-Investigation:-Endpoint-Compromise-&-Persistence/splunk%20query/README.md)** - *The exact Splunk searches used to extract the telemetry.*
